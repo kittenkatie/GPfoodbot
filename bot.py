@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # ══════════════════════════════════════════
-# МЕНЮ 
+# МЕНЮ — СТРОГО ПО PDF
 # ══════════════════════════════════════════
 MENU = {
     "breakfasts": {
